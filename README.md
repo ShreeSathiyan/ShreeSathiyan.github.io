@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 
-## _Current Project Information_
-=======
 ## Current Project Information
-
-Currently I am working on Headphones that react to sound that is playing from within.
->>>>>>> origin/master
 
 Currently I am working on headphones that react to the sound that you are listening to. These headphones help you express your style in a way that lights up the area.
 
