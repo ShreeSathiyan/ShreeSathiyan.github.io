@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ShreeSathiyan/ShreeSathiyan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## _Current Project Information_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am working on headphones that react to the sound that you are listening to. These headphones help you express your style in a way that lights up the area.
 
-### Markdown
+### _How To_
+
+
+#### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
