@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Current Project Information
 
-You can use the [editor on GitHub](https://github.com/ShreeSathiyan/ShreeSathiyan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently I am working on Headphones that react to sound that is playing from within.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
